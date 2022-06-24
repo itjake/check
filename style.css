@@ -1,0 +1,23 @@
+*{
+  box-sizing: border-box;
+}
+
+body{
+  margin: 0;
+}
+
+.calc__form{
+  display: flex;
+}
+
+input{
+  margin: 5px;
+}
+
+.calc{
+  padding: 10px;
+}
+.plus{
+  display: flex;
+  align-items: center;
+}
